@@ -1,30 +1,18 @@
-<p align="center">
-  <img width="72px" alt="[unfold] icon" src="build/icons/icon-128.png" />
-</p>
+<img width="72px" alt="[unfold] icon" src="build/icons/icon-128.png" />
 
-<h1 align="center">[unfold]</h1>
+# [unfold]
 
-<p align="center">
-  Declutter the IITM Online Degree portal.
-</p>
+> Declutter the IITM Online Degree portal.
 
-<p align="center">
-  <b><a href="../../releases/latest">Download the latest release</a></b>
-</p>
+**[Download the latest release](../../releases/latest)**
 
-<p align="center">
-  <a href="https://github.com/civiks/unfold-iitm/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/civiks/unfold-iitm/actions/workflows/ci.yml/badge.svg" /></a>
-  <a href="../../releases"><img alt="Release" src="https://img.shields.io/github/v/release/civiks/unfold-iitm?include_prereleases" /></a>
-  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-blue" /></a>
-</p>
+[![CI](https://github.com/civiks/unfold-iitm/actions/workflows/ci.yml/badge.svg)](https://github.com/civiks/unfold-iitm/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/civiks/unfold-iitm?include_prereleases)](../../releases)
+[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
-<p align="center">
-  <sub>Unofficial, beta, not affiliated with IIT Madras. <a href="NAMING.md">Why "[unfold]"?</a></sub>
-</p>
+<sub>Unofficial, beta, not affiliated with IIT Madras. <a href="NAMING.md">Why "[unfold]"?</a></sub>
 
-<p align="center">
-  <img width="300px" alt="[unfold] in action" src=".github/assets/hero.png" />
-</p>
+<img width="800px" alt="[unfold] in action" src=".github/assets/demo.gif" />
 
 ## Features
 
@@ -34,6 +22,8 @@
 - Hide sidebar, breadcrumbs, info banners
 - Compact mode
 - Master on/off toggle
+
+<img width="300px" alt="[unfold] popup" src=".github/assets/hero.png" />
 
 ## Install
 
